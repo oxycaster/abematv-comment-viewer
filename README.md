@@ -1,6 +1,8 @@
 # AbemaTV(アベマTV) コメントビューア(非公式)
 
-スクリーンショット
+
+![メインウィンドウ](https://user-images.githubusercontent.com/22833098/35740349-db3beda0-0877-11e8-9b92-a388658803a1.png)
+![過去発言閲覧ウィンドウ](https://user-images.githubusercontent.com/22833098/35740354-e2f306d2-0877-11e8-8377-c210cb8150ac.png)
 
 
 ## Description
